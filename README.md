@@ -10,5 +10,7 @@ You would like to give away an awesome prize to one lucky person in the class se
 There are not any tests for this lab.  Make sure it works, then turn it in.
 
 **Randomness:**
+
 To create a random integer between min and max (inclusive):
+
 `(int)(Math.random() * ((max - min) + 1)) + min`
